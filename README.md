@@ -8,10 +8,10 @@
 
 | 문서 | 내용 |
 |------|------|
-| [ROADMAP.md](../ROADMAP.md) | 진척 로드맵 |
-| [GOVERNANCE.md](../GOVERNANCE.md) | 의사결정 방식, 운영 규칙 |
-| [CHANGELOG.md](../CHANGELOG.md) | 주요 변경 이력 |
-| [CONTRIBUTING.md](../.github/CONTRIBUTING.md) | 기여 규칙, 브랜치 전략 |
+| [ROADMAP.md](/ROADMAP.md) | 진척 로드맵 |
+| [GOVERNANCE.md](/GOVERNANCE.md) | 의사결정 방식, 운영 규칙 |
+| [CHANGELOG.md](/CHANGELOG.md) | 주요 변경 이력 |
+| [CONTRIBUTING.md](/CONTRIBUTING.md) | 기여 규칙, 브랜치 전략 |
 
 ## Team
 
